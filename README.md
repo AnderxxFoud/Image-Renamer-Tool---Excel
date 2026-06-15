@@ -1,2 +1,2 @@
-# Image-Renamer-Tool---Excel
+# ImageBatch
 Herramienta para generar copias de una imagen con nombres tomados de una columna de Excel. 
